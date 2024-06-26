@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro Timer",
+  "description": "A Pomodoro Timer extension with a delightful easter egg!",
+  "version": "1.0.0",
+  "action": { "default_popup": "index.html" },
+  "icons": {
+    "16": "tomato--16px.png",
+    "32": "tomato--32px.png",
+    "64": "tomato--64px.png",
+    "128": "tomato--128px.png"
+  }
+}
